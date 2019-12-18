@@ -46,10 +46,7 @@ GEM
     bootstrap-will_paginate (0.0.10)
       will_paginate
     builder (3.2.4)
-    byebug (3.4.0)
-      columnize (~> 0.8)
-      debugger-linecache (~> 1.2)
-      slop (~> 3.6)
+    byebug (11.0.1)
     celluloid (0.16.0)
       timers (~> 4.0.0)
     coderay (1.1.0)
@@ -60,11 +57,9 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    columnize (0.8.9)
     concurrent-ruby (1.1.5)
     crass (1.0.5)
     debug_inspector (0.0.3)
-    debugger-linecache (1.2.0)
     erubis (2.7.0)
     execjs (2.7.0)
     faker (2.2.1)
@@ -212,7 +207,7 @@ DEPENDENCIES
   bcrypt (= 3.1.13)
   bootstrap-sass (= 3.4.1)
   bootstrap-will_paginate (= 0.0.10)
-  byebug (= 3.4.0)
+  byebug (= 11.0.1)
   coffee-rails (= 4.0.1)
   faker (= 2.2.1)
   guard-minitest (= 2.3.1)
