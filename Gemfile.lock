@@ -75,11 +75,11 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
     crass (1.0.5)
     erubi (1.9.0)
     execjs (2.7.0)
-    faker (2.10.1)
+    faker (2.10.2)
       i18n (>= 1.6, < 2)
     ffi (1.11.3)
     globalid (0.4.2)
@@ -213,7 +213,7 @@ DEPENDENCIES
   bootstrap-will_paginate (= 1.0.0)
   byebug (= 11.1.1)
   coffee-rails (= 5.0.0)
-  faker (= 2.10.1)
+  faker (= 2.10.2)
   guard-minitest (= 2.4.6)
   jbuilder (= 2.10.0)
   jquery-rails (= 4.3.5)
