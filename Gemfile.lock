@@ -67,7 +67,7 @@ GEM
     bootstrap-will_paginate (1.0.0)
       will_paginate
     builder (3.2.4)
-    byebug (11.1.1)
+    byebug (11.1.2)
     coffee-rails (5.0.0)
       coffee-script (>= 2.2.0)
       railties (>= 5.2.0)
@@ -211,7 +211,7 @@ DEPENDENCIES
   bcrypt (= 3.1.13)
   bootstrap-sass (= 3.4.1)
   bootstrap-will_paginate (= 1.0.0)
-  byebug (= 11.1.1)
+  byebug (= 11.1.2)
   coffee-rails (= 5.0.0)
   faker (= 2.11.0)
   guard-minitest (= 2.4.6)
