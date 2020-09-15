@@ -11,7 +11,7 @@ gem 'uglifier',                 '4.2.0'
 gem 'coffee-rails',             '5.0.0'
 gem 'jquery-rails',             '4.4.0'
 gem 'turbolinks',               '5.2.1'
-gem 'jbuilder',                 '2.10.0'
+gem 'jbuilder',                 '2.10.1'
 gem 'sdoc',                     '1.1.0', group: :doc
 
 group :development, :test do
