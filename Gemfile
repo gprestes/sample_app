@@ -12,7 +12,7 @@ gem 'coffee-rails',             '5.0.0'
 gem 'jquery-rails',             '4.4.0'
 gem 'turbolinks',               '5.2.1'
 gem 'jbuilder',                 '2.11.1'
-gem 'sdoc',                     '2.0.3', group: :doc
+gem 'sdoc',                     '2.0.4', group: :doc
 
 group :development, :test do
   gem 'sqlite3',     '1.4.2'
