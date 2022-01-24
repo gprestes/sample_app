@@ -28,7 +28,7 @@ group :test do
 end
 
 group :production do
-  gem 'pg',             '1.2.3'
+  gem 'pg',             '1.3.0'
   gem 'rails_12factor', '0.0.3'
   gem 'unicorn',        '6.0.0'
 end
