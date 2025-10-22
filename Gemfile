@@ -9,7 +9,7 @@ gem 'bootstrap-sass',           '3.4.1'
 gem 'sass-rails',               '6.0.0'
 gem 'uglifier',                 '4.2.1'
 gem 'coffee-rails',             '5.0.0'
-gem 'jquery-rails',             '4.6.0'
+gem 'jquery-rails',             '4.6.1'
 gem 'turbolinks',               '5.2.1'
 gem 'jbuilder',                 '2.14.1'
 gem 'sdoc',                     '2.6.5', group: :doc
