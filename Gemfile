@@ -24,7 +24,7 @@ end
 group :test do
   gem 'minitest-reporters', '1.7.1'
   gem 'mini_backtrace',     '0.1.3'
-  gem 'guard-minitest',     '2.5.0'
+  gem 'guard-minitest',     '3.0.0'
 end
 
 group :production do
