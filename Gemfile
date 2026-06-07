@@ -15,7 +15,7 @@ gem 'jbuilder',                 '2.15.1'
 gem 'sdoc',                     '2.6.5', group: :doc
 
 group :development, :test do
-  gem 'sqlite3',     '2.9.4'
+  gem 'sqlite3',     '2.9.5'
   gem 'byebug',      '13.0.0'
   gem 'web-console', '4.3.0'
   gem 'spring',      '4.6.0'
