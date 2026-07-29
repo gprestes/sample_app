@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails',                    '8.1.3'
+gem 'rails',                    '8.1.3.1'
 gem 'bcrypt',                   '3.1.22'
 gem 'faker',                    '3.8.0'
 gem 'will_paginate',            '4.0.1'
